@@ -1,0 +1,56 @@
+/home/oscar/app_web_docker_cpu/
+├── a.doc
+├── a.docx
+├── app.py
+├── detect.py
+├── docker-compose.yml
+├── Dockerfile
+├── models
+│   ├── common.py
+│   ├── experimental.py
+│   ├── myModels
+│   │   ├── DIOR416.pt
+│   │   ├── Seresco.pt
+│   │   ├── Standford_2.pt
+│   │   └── Standford_6.pt
+│   ├── __pycache__
+│   │   ├── common.cpython-38.pyc
+│   │   ├── experimental.cpython-38.pyc
+│   │   ├── __init__.cpython-38.pyc
+│   │   └── yolo.cpython-38.pyc
+│   └── yolo.py
+├── __pycache__
+│   ├── a.cpython-38.pyc
+│   ├── app.cpython-38.pyc
+│   └── detect.cpython-38.pyc
+├── requirements.txt
+├── static
+│   ├── DIOR
+│   │   ├── carousel_aviones.jpg
+│   │   ├── carousel_barco.jpg
+│   │   └── carousel_tenis.jpg
+│   ├── Seresco
+│   │   ├── carousel_animales.png
+│   │   ├── carousel_bolaSilo.png
+│   │   └── carousel_silo.png
+│   └── Standford
+│       ├── carousel_coche.png
+│       ├── carousel_humanos.png
+│       └── carousel_todo.png
+├── templates
+│   └── index.html
+└── utils
+    ├── activations.py
+    ├── datasets.py
+    ├── general.py
+    ├── google_utils.py
+    ├── __init__.py
+    ├── __pycache__
+    │   ├── datasets.cpython-38.pyc
+    │   ├── general.cpython-38.pyc
+    │   ├── google_utils.cpython-38.pyc
+    │   ├── __init__.cpython-38.pyc
+    │   └── torch_utils.cpython-38.pyc
+    └── torch_utils.py
+
+11 directories, 42 files
